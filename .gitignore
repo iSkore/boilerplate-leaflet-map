@@ -506,5 +506,3 @@ paket-files/
 .cache
 .cache/
 ui_old/
-
-mongodb

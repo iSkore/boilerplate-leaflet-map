@@ -1,0 +1,9 @@
+.idea/
+.vscode/
+.git
+LICENSE
+
+.cache
+build
+
+node_modules

@@ -1,0 +1,23 @@
+{
+  "name": "boilerplate-leaflet-map",
+  "version": "1.0.0",
+  "description": "Boilerplate Leaflet map for testing WMS/WFS/etc services",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iSkore/boilerplate-leaflet-map.git"
+  },
+  "keywords": [
+    "leaflet",
+    "map"
+  ],
+  "author": "Nick Soggin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iSkore/boilerplate-leaflet-map/issues"
+  },
+  "homepage": "https://github.com/iSkore/boilerplate-leaflet-map#readme"
+}
